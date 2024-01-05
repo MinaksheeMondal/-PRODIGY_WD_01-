@@ -1,2 +1,2 @@
-# Usabilityhub-landing-page
-Responsive Usabilityhub landing page
+# UsabilityHub
+Clone of Usability Hub
